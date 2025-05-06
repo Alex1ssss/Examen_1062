@@ -1,19 +1,9 @@
-# examen_1062
-
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- ![image](https://github.com/user-attachments/assets/7f7c6cd1-2db3-4508-b40b-743101ee4f3b)
+- ![image](https://github.com/user-attachments/assets/f780f92e-6f9e-4786-b068-291a5dbb3aeb)
+- ![image](https://github.com/user-attachments/assets/e4780b73-98ca-4231-85f8-5d5874050184)
+- ![image](https://github.com/user-attachments/assets/83f0e2d9-6eb7-462c-9cca-aa72833a4330)
+- ![image](https://github.com/user-attachments/assets/9a9f6317-cc06-4da1-89ba-ea50f50e4a0f)
+- ![image](https://github.com/user-attachments/assets/6b5c46fb-75ba-400e-ac68-8de5dca7859f)
+- ![image](https://github.com/user-attachments/assets/4015c0c6-d935-4f55-b5f3-23580d0c7709)
+- ![image](https://github.com/user-attachments/assets/58ac0c53-6abe-4158-8e45-deec266cdce1)
+- ![image](https://github.com/user-attachments/assets/56713409-82a4-414a-be16-5e7fe30a7814)
